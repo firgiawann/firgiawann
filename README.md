@@ -1,4 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/101615531?v=4" width="120" height="120" align="left">
+<div style="border-radius: 50%; overflow: hidden;">
+  <img src="https://avatars.githubusercontent.com/u/101615531?v=4" width="120" height="120" align="left">
+</div>
 <center>
 * MY SOCIAL MEDIA :
 
@@ -15,7 +17,7 @@ ___
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=firgiawann&show_icons=true&theme=dark)
 
-<a href="https://github.com/firgiawann/xyz"><img title="xyz" src="https://github-readme-stats.vercel.app/api/pin/?username=firgiawann&repo=xyz&theme=chartreuse-dark"></a>
-
-<a href="https://github.com/firgiawann"><img title="firgiawann" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firgiawann&layout=compact&theme=chartreuse-dark"></a><br>
-<a href="https://github.com/firgiawann"><img title="firgiawann" src="https://github-readme-stats.vercel.app/api?username=firgiawann&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/firgiawann/xyz"><img title="xyz" src="https://github-readme-stats.vercel.app/api/pin/?username=firgiawann&repo=xyz&theme=dark"></a>
+<a href="https://github.com/firgiawann/firgiawann"><img title="firgiawann" src="https://github-readme-stats.vercel.app/api/pin/?username=firgiawann&repo=firgiawann&theme=dark"></a>
+<a href="https://github.com/firgiawann"><img title="firgiawann" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firgiawann&layout=compact&theme=dark"></a><br>
+<a href="https://github.com/firgiawann"><img title="firgiawann" src="https://github-readme-stats.vercel.app/api?username=firgiawann&show_icons=true&include_all_commits=true&theme=dark&cache_seconds=3200"></a>
