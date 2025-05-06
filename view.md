@@ -58,7 +58,7 @@
 
 ### 📈 **Coding Activity** 🕒
   
-[![wakatime](https://wakatime.com/badge/user/xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg)](https://wakatime.com/@firgiawan)
+[![wakatime](https://wakatime.com/badge/user/7ee9f935-ed28-4b6a-8756-37d93415888f.svg)](https://wakatime.com/@firgiawan)
   
 ---
 
